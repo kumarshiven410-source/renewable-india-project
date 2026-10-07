@@ -1,0 +1,28 @@
+{
+  "name": "renewable-india-platform",
+  "version": "2.0.0",
+  "description": "Renewable Energy Intelligence Platform - India Progress & Challenges (CHE110 CA1 LPU)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "sync-data": "node -e \"require('./services/ingestionService').syncOfficialData().then(r => console.log('Sync result:', r))\""
+  },
+  "keywords": [
+    "renewable-energy",
+    "india",
+    "mnre",
+    "cea",
+    "solar",
+    "wind",
+    "hydro",
+    "che110"
+  ],
+  "author": "Shiven Kumar, Akshay Shukla, Aayush Aryan (LPU)",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}

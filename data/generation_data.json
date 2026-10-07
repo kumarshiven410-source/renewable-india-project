@@ -1,0 +1,109 @@
+{
+  "summary": {
+    "latestPeriod": "August 2026",
+    "publishedDate": "2026-09-22",
+    "source": "Central Electricity Authority (CEA) - Renewable Energy Generation Division",
+    "sourceUrl": "https://cea.nic.in/renewable-energy-generation-reports/",
+    "unit": "GWh (Million Units - MU)",
+    "verificationStatus": "official",
+    "totals": {
+      "solarGWh": 11420,
+      "windGWh": 12850,
+      "largeHydroGWh": 16400,
+      "smallHydroGWh": 980,
+      "biomassOtherGWh": 490,
+      "totalRenewableGWh": 42140,
+      "allIndiaTotalGenGWh": 158400,
+      "renewableGenShare": 26.60
+    },
+    "capacityVsGenerationDistinction": {
+      "concept": "CAPACITY ≠ GENERATION",
+      "capacityDefinition": "Installed Capacity (MW / GW) is the maximum instantaneous power rating of all connected power stations under optimal conditions (e.g. peak midday sunshine for solar or high winds).",
+      "generationDefinition": "Energy Generation (GWh / Million Units) is the actual electrical energy produced and fed into the power grid over a period of time, governed by the Capacity Utilization Factor (CUF).",
+      "practicalExample": "A 100 MW solar park only generates electricity during daylight hours (typical CUF ~22-25%), yielding ~200 GWh annually, whereas a 100 MW nuclear or hydro baseload plant generates round-the-clock (~70-85% CUF), yielding ~700 GWh."
+    }
+  },
+  "monthlyTrend": [
+    {
+      "month": "Jan 2026",
+      "solarGWh": 9250,
+      "windGWh": 3480,
+      "hydroGWh": 8400,
+      "otherGWh": 450,
+      "totalGWh": 21580,
+      "reSharePercent": 17.8
+    },
+    {
+      "month": "Feb 2026",
+      "solarGWh": 10100,
+      "windGWh": 3950,
+      "hydroGWh": 8900,
+      "otherGWh": 460,
+      "totalGWh": 23410,
+      "reSharePercent": 18.9
+    },
+    {
+      "month": "Mar 2026",
+      "solarGWh": 11800,
+      "windGWh": 4420,
+      "hydroGWh": 9600,
+      "otherGWh": 480,
+      "totalGWh": 26300,
+      "reSharePercent": 20.4
+    },
+    {
+      "month": "Apr 2026",
+      "solarGWh": 12200,
+      "windGWh": 5150,
+      "hydroGWh": 10200,
+      "otherGWh": 470,
+      "totalGWh": 28020,
+      "reSharePercent": 21.2
+    },
+    {
+      "month": "May 2026",
+      "solarGWh": 12450,
+      "windGWh": 8200,
+      "hydroGWh": 12100,
+      "otherGWh": 460,
+      "totalGWh": 33210,
+      "reSharePercent": 23.8
+    },
+    {
+      "month": "Jun 2026",
+      "solarGWh": 10800,
+      "windGWh": 11600,
+      "hydroGWh": 14200,
+      "otherGWh": 450,
+      "totalGWh": 37050,
+      "reSharePercent": 25.1
+    },
+    {
+      "month": "Jul 2026",
+      "solarGWh": 9850,
+      "windGWh": 13900,
+      "hydroGWh": 17500,
+      "otherGWh": 470,
+      "totalGWh": 41720,
+      "reSharePercent": 27.2
+    },
+    {
+      "month": "Aug 2026",
+      "solarGWh": 11420,
+      "windGWh": 12850,
+      "hydroGWh": 17380,
+      "otherGWh": 490,
+      "totalGWh": 42140,
+      "reSharePercent": 26.6
+    }
+  ],
+  "dailySnapshot": [
+    { "day": "Day 1", "solar": 372, "wind": 415, "hydro": 560, "total": 1347 },
+    { "day": "Day 5", "solar": 365, "wind": 428, "hydro": 575, "total": 1368 },
+    { "day": "Day 10", "solar": 380, "wind": 395, "hydro": 568, "total": 1343 },
+    { "day": "Day 15", "solar": 358, "wind": 435, "hydro": 582, "total": 1375 },
+    { "day": "Day 20", "solar": 370, "wind": 410, "hydro": 555, "total": 1335 },
+    { "day": "Day 25", "solar": 362, "wind": 405, "hydro": 570, "total": 1337 },
+    { "day": "Day 30", "solar": 378, "wind": 420, "hydro": 562, "total": 1360 }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "news_1",
+    "title": "PM Surya Ghar Muft Bijli Yojana Crosses 1.3 Crore Registrations Nationwide",
+    "date": "2026-08-28",
+    "source": "Ministry of New and Renewable Energy (MNRE) / PIB",
+    "sourceUrl": "https://pmsuryaghar.gov.in",
+    "summary": "India's landmark rooftop solar initiative records unprecedented household participation with subsidized installations scaling rapidly across Gujarat, Maharashtra, UP, and Punjab under direct DBT subsidy transfers.",
+    "category": "Rooftop Solar & Policy"
+  },
+  {
+    "id": "news_2",
+    "title": "CEA Releases National Electricity Plan Addendum: 500 GW Non-Fossil Trajectory on Track",
+    "date": "2026-08-14",
+    "source": "Central Electricity Authority (CEA)",
+    "sourceUrl": "https://cea.nic.in",
+    "summary": "The Central Electricity Authority confirms grid readiness and transmission corridor build-out (Green Energy Corridor Phase II) to evacuate over 200 GW from Western and Southern renewable hubs.",
+    "category": "Grid Integration"
+  },
+  {
+    "id": "news_3",
+    "title": "Khavda 30 GW Mega Hybrid Renewable Park Commits Additional 3.5 GW Solar Phase",
+    "date": "2026-07-29",
+    "source": "Press Information Bureau (PIB) / MNRE",
+    "sourceUrl": "https://pib.gov.in",
+    "summary": "Phase-wise commissioning of the world's largest hybrid renewable power park in Kutch continues ahead of target, integrating automated robotic dry-cleaning to save millions of liters of fresh water.",
+    "category": "Utility Mega Parks"
+  },
+  {
+    "id": "news_4",
+    "title": "National Green Hydrogen Mission Allocates SIGHT Tranche II Electrolyzer Incentives",
+    "date": "2026-07-10",
+    "source": "Ministry of New and Renewable Energy (MNRE)",
+    "sourceUrl": "https://mnre.gov.in",
+    "summary": "SECI awards 1,500 MW/annum domestic electrolyzer manufacturing capacity under the Strategic Interventions for Green Hydrogen Transition (SIGHT) scheme to bolster supply chain self-reliance.",
+    "category": "Green Hydrogen"
+  },
+  {
+    "id": "news_5",
+    "title": "Pumped Storage Hydropower Guidelines Expedite 47 GW Closed-Loop Projects",
+    "date": "2026-06-25",
+    "source": "Ministry of Power / Central Electricity Authority",
+    "sourceUrl": "https://cea.nic.in",
+    "summary": "Fast-tracked clearances and environmental flow standardizations unlock major pumped storage hydro assets in Uttarakhand, Maharashtra, Andhra Pradesh, and Himachal Pradesh as grid water batteries.",
+    "category": "Energy Storage"
+  }
+]
